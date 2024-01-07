@@ -1,6 +1,6 @@
 /*
  * GUMBOX BLUE CORPORATION.
- * Copyright (c) 2023-present Gumbox Blue, Corporation. All Rights Reserved.
+ * Copyright (C) 2023-present Gumbox Blue, Corporation. All Rights Reserved.
  *
  * This software is the confidential and proprietary information of Gumbox Blue Corporation.
  * ("Confidential Information"). You shall not disclose such Confidential Information and
@@ -40,8 +40,8 @@ public class Demo {
 
     /**
      * All of the client code should work with factories and products through
-     * abstract interfaces. This way it does not care which factory it works
-     * with and what kind of product it returns.
+     * abstract interfaces. This way it does not care which factory it works with
+     * and what kind of product it returns.
      */
     static void runBusinessLogic() {
 	dialog.renderWindow();

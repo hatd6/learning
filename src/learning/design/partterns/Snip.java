@@ -1,6 +1,6 @@
 /*
  * GUMBOX BLUE CORPORATION.
- * Copyright (c) 2023-present Gumbox Blue, Corporation. All Rights Reserved.
+ * Copyright (C) 2023-present Gumbox Blue, Corporation. All Rights Reserved.
  *
  * This software is the confidential and proprietary information of Gumbox Blue Corporation.
  * ("Confidential Information"). You shall not disclose such Confidential Information and
